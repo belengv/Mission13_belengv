@@ -1,0 +1,51 @@
+/* My personalized css file to custom my pages, this file was applied to all pages */
+.h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+  text-align: center;
+}
+.p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 22px;
+  color: darkslategray;
+  text-align: center;
+}
+.navbar {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.navbarList {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  word-spacing: 12px;
+}
+
+.navbarItem {
+  margin-right: 30px;
+}
+
+.navbarLink {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbarLinkHover {
+  text-decoration: underline;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+}
