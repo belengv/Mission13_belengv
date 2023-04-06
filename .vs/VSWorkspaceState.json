@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\MovieAPI",
+    "\\backend\\MovieAPI\\MovieAPI",
+    "\\backend\\MovieAPI\\MovieAPI\\Model"
+  ],
+  "SelectedNode": "\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}

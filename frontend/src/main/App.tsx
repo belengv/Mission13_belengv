@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import TopBanner from './Landing';
-import MovieList from './Movies';
-import JoelPodcast from './Podcast';
-import Navbar from './Navigation';
+import TopBanner from '../Landing';
+//import MovieList from '../Movies';
+import JoelPodcast from '../Podcast';
+import Navbar from '../Navigation';
+import MovieListSqlite from '../movie/MovieList';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element={<TopBanner title="Joel Hilton Website" />} />
           <Route path="/Podcast" element={<JoelPodcast />} />
-          <Route path="/MovieList" element={<MovieList />} />
+          <Route path="/MovieList" element={<MovieListSqlite />} />
         </Routes>
       </div>
     </Router>

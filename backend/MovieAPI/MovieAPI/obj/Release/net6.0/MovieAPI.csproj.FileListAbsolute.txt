@@ -1,0 +1,7 @@
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.csproj.AssemblyReference.cache
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.AssemblyInfoInputs.cache
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.AssemblyInfo.cs
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.csproj.CoreCompileInputs.cache
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/beleng/Documents/Mission13_belengv/backend/MovieAPI/MovieAPI/obj/Release/net6.0/MovieAPI.MvcApplicationPartsAssemblyInfo.cache
